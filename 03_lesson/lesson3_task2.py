@@ -2,8 +2,11 @@ from smartphone import Smartphone
 
 
 catalog = [
-    Smartphone("Apple", "iPhone 13", "+79148939112"),
-    Smartphone("Samsung", "Galaxy S21Ultra", "+79086684586"),
+    Smartphone("Apple", "iPhone 13", "+79001234567"),
+    Smartphone("Samsung", "Galaxy S21", "+79007654321"),
+    Smartphone("Xiaomi", "Mi 11", "+79138942022"),
+    Smartphone("Google", "Pixel 6", "+79835432123"),
+    Smartphone("OnePlus", "9 Pro", "+79006789012")
 ]
 
 
